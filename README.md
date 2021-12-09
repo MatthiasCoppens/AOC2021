@@ -8,5 +8,5 @@ These are the runtimes (for both parts) for each day:
 - Day  5: 601.27 ms
 - Day  6:   4.78 ms
 - Day  7:   1.02  s
-- Day  9: Not completed
-- Day 10:  42.91 ms
+- Day  8: Not completed
+- Day  9:  42.91 ms
