@@ -12,3 +12,4 @@ These are the runtimes (for both parts) for each day:
 - [Day 9](https://adventofcode.com/2021/day/9):    42.91 ms
 - [Day 10](https://adventofcode.com/2021/day/10):   3.15 ms
 - [Day 11](https://adventofcode.com/2021/day/11): 162.55 ms
+- [Day 12](https://adventofcode.com/2021/day/12): 493.27 ms
