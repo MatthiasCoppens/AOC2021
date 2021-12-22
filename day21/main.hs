@@ -1,6 +1,5 @@
 import Data.Char
 import Text.ParserCombinators.ReadP
-import qualified Data.Set as S
 
 type Cuboid = ((Int, Int), (Int, Int), (Int, Int))
 
