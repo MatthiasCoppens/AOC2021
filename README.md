@@ -24,5 +24,5 @@ These are the runtimes (for both parts) for each day:
 - [Day 21](https://adventofcode.com/2021/day/21):  70.63  s
 - [Day 22](https://adventofcode.com/2021/day/22): 578.27 ms
 - [Day 23](https://adventofcode.com/2021/day/23): 
-- [Day 24](https://adventofcode.com/2021/day/24): 
+- [Day 24](https://adventofcode.com/2021/day/24): Manual, helper program runs in 5.35 ms
 - [Day 25](https://adventofcode.com/2021/day/25):   4.38  s
